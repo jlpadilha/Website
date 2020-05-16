@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589657030853.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3340542414",
+    "id" : "6DFC738A",
+    "lastKnownWriteTime" : 1589657050,
+    "last_content_update" : 1589657050904,
+    "path" : "C:/Users/jlpadilha/Desktop/UFPR/Website/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+        "cursorPosition" : "60,11",
+        "scrollLine" : "49"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
