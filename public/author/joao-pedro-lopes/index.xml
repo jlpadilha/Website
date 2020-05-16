@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joao Pedro Lopes | José Luiz Padilha</title>
+    <link>/author/joao-pedro-lopes/</link>
+      <atom:link href="/author/joao-pedro-lopes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joao Pedro Lopes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>Joao Pedro Lopes</title>
+      <link>/author/joao-pedro-lopes/</link>
+    </image>
+    
+    <item>
+      <title>Circulating Progenitor Cell Levels for Prediction of Subclinical Atherosclerotic Disease</title>
+      <link>/publication/lopes2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lopes2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

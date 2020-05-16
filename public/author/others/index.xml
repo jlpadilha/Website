@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{others} | JOSÉ LUIZ PADILHA</title>
+    <link>/author/others/</link>
+      <atom:link href="/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <description>{others}</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>{others}</title>
+      <link>/author/others/</link>
+    </image>
+    
+    <item>
+      <title>TCT-113 Validating and updating a mortality risk prediction score after percutaneous coronary intervention in Brazil</title>
+      <link>/publication/2014-01-01_lodi2014tct/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_lodi2014tct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

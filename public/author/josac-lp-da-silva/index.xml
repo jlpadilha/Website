@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JosA(C) LP {da Silva} | JOSÉ LUIZ PADILHA</title>
+    <link>/author/josac-lp-da-silva/</link>
+      <atom:link href="/author/josac-lp-da-silva/index.xml" rel="self" type="application/rss+xml" />
+    <description>JosA(C) LP {da Silva}</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>JosA(C) LP {da Silva}</title>
+      <link>/author/josac-lp-da-silva/</link>
+    </image>
+    
+    <item>
+      <title>A general GEE framework for the analysis of longitudinal ordinal missing data and related issues</title>
+      <link>/publication/2019-01-01_silva2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_silva2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normal limits of the electrocardiogram derived from a large database of Brazilian primary care patients</title>
+      <link>/publication/2017-01-01_palhares2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-01_palhares2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

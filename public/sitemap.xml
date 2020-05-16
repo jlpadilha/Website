@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anderson-de-castro-peres/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/angelo-da-silva-cabral/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cesar-augusto-taconeli/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/taconeli2020/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-luiz-padilha/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-luiz-padilha-da-silva/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/adriana-costa-diamantino/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-zawacki-beaton/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-luiz-pinho-ribeiro/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/augusto-ferreira-pereira/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/breno-de-filippo-rezende/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bruno-ramos-nascimento/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/barbara-martins-bechtlufft/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/clara-leal-fraga/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/craig-sable/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-luiz-padilha-silva/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kaciane-krauss-oliveira/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-carmo-pereira-nunes/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mariana-duarte-mata/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcia-melo-barbosa/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nayana-flamini-arantes/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sandra-regina-tolentino-castilho/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/susana-drumond-reis/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bechtlufft2020validation/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/waydder-antonio-aurelio-costa/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zilda-maria-alves-meira/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andre-gorle-de-miranda-chaves/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/flavio-augusto-paes-de-oliveira/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/henrique-silveira-costa/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/judy-hung/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/castrofaria2020/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-a-levine/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sanny-cristina-de-castro-faria/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/timothy-c-tan/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/william-antonio-m-esteves/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cashel-obrien/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gyeong-moon-kim/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hakan-ay/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/johanna-helenius/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/karen-furie/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tan2020/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mark-handschumacher/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/octavio-pontes-neto/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/victoria-piro/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xin-zeng/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yong-hyun-park/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/silva2019/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/enrico-a-colosimo/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fabio-n-demarqui/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-lp-da-silva/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-luiz-padilha/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/adriana-c-diamantino/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-z.-beaton/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-luiz-p.-ribeiro/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bruno-r-nascimento/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/emilly-malveira-de-lima/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/emmy-okello/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/enrico-antonio-colosimo/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kaciane-kb-oliveira/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-carmo-p-nunes/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-lwabi/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nunes2019/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/twalib-aliku/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ariane-vieira-scarlatelli-macedo/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/barros2018/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcio-vinicius-lins-de-barros/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/monica-hermont-faleiros/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/patricia-tavares-felipe/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sebastian-imre-sarvari/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thor-edvardsen/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ana-luiza-bierrenbach/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-luiz-p-ribeiro/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ariela-mota-ferreira/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/arthur-lawrence-reingold/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cardoso2018/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/clareci-silva-cardoso/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/claudia-di-lorenzo-oliveira/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ester-cerdeira-sabino/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joao-eduardo-ferreira/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lea-campos-oliveira/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-p.-busch/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tzong-hae-lee/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gabriel-prado-saad/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/guilherme-rafael-santanna-athayde/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/igor-f-palacios/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/athayde2018/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/juliana-rodrigues-soares/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lucas-lodi-junqueira/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-carmo-pereira-nunes-md/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-a.-levine/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sammy-elmariah/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-jerusa-de-souza/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-lucio-teixeira-jr/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/carolina-braga-resende/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/erica-leandro-marciano-vieira/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/euripedes-badaro/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/isabela-nascimento-borges/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcus-vinicius-melo-de-andrade/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rafael-mourao-carneiro/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/borges2018/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vandack-nobre/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/silva2018/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joao-antonio-de-queiroz-oliveira/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luciana-de-gouvea-viana/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luiz-guilherme-passaglia/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-auxiliadora-parreiras-martins/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-das-dores-graciano-silva/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/renata-rezende-de-menezes/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andre-assis-lopes-do-carmo/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/almeida2018/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/barbara-carolina-silva-almeida/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marco-paulo-tomaz-barbosa/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bo-angela-wan/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/edward-chow/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fabio-y.-moraes/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gustavo-nader-marta/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kennya-m.-l.-b.-lima/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lucas-c.-mendez/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-del-pilar-estevez-diz/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mauricio-f.-silva/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mendez2017/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/srinivas-raman/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fabio-m-de-castilho/</loc>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/castilho2017/</loc>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-luiz-p-da-silva/</loc>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcos-r-de-sousa/</loc>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pintofilho2017/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-geraldo-mill/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luisa-cc-brant/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcelo-martins-pinto-filho/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-da-conceicao-c-almeida/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/murilo-foppa/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/paulo-a-lotufo/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/paulo-r-vasconcelo-silva/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sandhi-maria-barreto/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-lp-ribeiro/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniel-mf-palhares/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leonardo-b-ribeiro/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/milena-s-marcolino/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/palhares2017/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/paulo-r-gomes/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-w-macfarlane/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thales-mm-santos/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cristina-maria-mendes-resende/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/danielle-fernandes-durso/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/erica-castilho-rodrigues/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gisele-kuhlmann-duarte-rodrigues/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gloria-regina-franco/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jacqueline-isaura-alvarez-leite/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/karina-braga-gomes-borges/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kathryna-fontana-rodrigues/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rafaela-messias-pereira/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/resende2017/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-z-beaton/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lana2017/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/francisco-cesar-t-da-silva-junior/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/isadora-crs-bozzi/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luiz-ricardo-de-a-castro/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-leticia-l-lana/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/osias-de-magalhaes/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nunes2017/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rodrigo-citton-padilha-reis/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rodrigo-do-lago/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/al-ribeiro/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alline-m-beleigoli/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/eric-boersma/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jl-silva/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-fernanda-lima-costa/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mdfh-diniz/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/beleigoli2016effects/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dasilva2016comments/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/aline-bm-vaz/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andre-gfc-costa/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-luiz-p-silva/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leila-d-amorim/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/costa2016/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alp-ribeiro/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/am-ferreira/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ap-antunes/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cardoso2016pm201/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cdl-oliveira/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cs-cardoso/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ec-sabino/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jlp-silva/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lc-oliveira/</loc>
+    <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/junia-xavier-maia/</loc>
+    <lastmod>2016-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lidiane-aparecida-pereira-de-sousa/</loc>
+    <lastmod>2016-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-beatriz-moreira-alkmim/</loc>
+    <lastmod>2016-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/milena-soriano-marcolino/</loc>
+    <lastmod>2016-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/maia2016impact/</loc>
+    <lastmod>2016-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-ribeiro/</loc>
+    <lastmod>2016-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cristiane-pessoa/</loc>
+    <lastmod>2016-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pessoa2016description/</loc>
+    <lastmod>2016-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-luiz-silva/</loc>
+    <lastmod>2016-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lidiane-sousa/</loc>
+    <lastmod>2016-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-beatriz-alkmim/</loc>
+    <lastmod>2016-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/terua-oliveira/</loc>
+    <lastmod>2016-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rodrigues2015/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cristina-m.-m.-resende/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniela-c.-ferreira/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/danielle-f.-durso/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gisele-k.-rodrigues/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gloria-r.-franco/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jacqueline-alvarez-leite/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-luiz-p.-silva/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lorena-a.-a.-rodrigues/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rodrigo-c.-reis/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/solange-s.-pereira/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bastos2015/</loc>
+    <lastmod>2015-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jackson-s.-caiafa/</loc>
+    <lastmod>2015-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcos-de-bastos/</loc>
+    <lastmod>2015-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sandhi-m.-barreto/</loc>
+    <lastmod>2015-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/suely-m.-rezende/</loc>
+    <lastmod>2015-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tania-boguchi/</loc>
+    <lastmod>2015-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ana-elisa-loyola-arancibia/</loc>
+    <lastmod>2015-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ana-paula-costa/</loc>
+    <lastmod>2015-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fernando-brito-bueno/</loc>
+    <lastmod>2015-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/barros2015/</loc>
+    <lastmod>2015-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcela-aparecida-correa-martins/</loc>
+    <lastmod>2015-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcio-vinicius-lins-barros/</loc>
+    <lastmod>2015-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-claudia-magalhaes/</loc>
+    <lastmod>2015-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-l-ribeiro/</loc>
+    <lastmod>2015-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/desouza2015effect/</loc>
+    <lastmod>2015-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/manoel-otavio-c-rocha/</loc>
+    <lastmod>2015-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-nunes-maria-do-carmo/</loc>
+    <lastmod>2015-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sonia-francisca-de-souza/</loc>
+    <lastmod>2015-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vinicius-t-de-carvalho/</loc>
+    <lastmod>2015-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/carmo2015/</loc>
+    <lastmod>2015-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andre-a.-l.-carmo/</loc>
+    <lastmod>2015-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-l.-p.-ribeiro/</loc>
+    <lastmod>2015-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/barbara-m.-ianni/</loc>
+    <lastmod>2015-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ester-c.-sabino/</loc>
+    <lastmod>2015-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fabio-fernandes/</loc>
+    <lastmod>2015-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-l.-p.-silva/</loc>
+    <lastmod>2015-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/manoel-o.-c.-rocha/</loc>
+    <lastmod>2015-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bruno-r.-nascimento/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/guilherme-r.-s.-athayde/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/humberto-l.-goncalves/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lodijunqueira2015/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-l.-p.-da-silva/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/julio-c.-borges/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lorena-r.-ferreira/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pedro-a.-lemos/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thalles-o.-gomes/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/guilherme-rafael-s-athayde/</loc>
+    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/humberto-l-goncalves/</loc>
+    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/julio-c-borges/</loc>
+    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lorena-r-ferreira/</loc>
+    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pedro-a-lemos/</loc>
+    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thalles-o-gomes/</loc>
+    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lodi2014tct/</loc>
+    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-luiz-ribeiro/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bruno-nascimento/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lopes2014/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniel-r-rabelo/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniel-simon/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-zidar/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rabelo2014impaired/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joao-pedro-lopes/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/manoel-otavio-da-costa-rocha/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcio-vl-de-barros/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marco-costa/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-cp-nunes/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/masakazu-ishikawa/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mohamad-alaiti/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mukesh-jain/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yunmei-wang/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-teixeira-de-carvalho/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nunes2013/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/izabella-rodrigues-de-araujo/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leticia-alves-andrade/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcio-henrique-lima-resende/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/teresa-cristina-abreu-ferrari/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nunes2012/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/felipe-barbosa/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fernando-antonio-botoni/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/manoel-otavio-rocha/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcia-m.-barbosa/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-pereira-nunes/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/felipe-batista-lima-barbosa/</loc>
+    <lastmod>2011-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/manoel-oc-rocha/</loc>
+    <lastmod>2011-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcia-m-barbosa/</loc>
+    <lastmod>2011-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nunes2011/</loc>
+    <lastmod>2011-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

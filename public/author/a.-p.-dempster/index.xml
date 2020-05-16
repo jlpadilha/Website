@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. P. Dempster | JOSÉ LUIZ PADILHA</title>
+    <link>/author/a.-p.-dempster/</link>
+      <atom:link href="/author/a.-p.-dempster/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. P. Dempster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Sat, 01 Jan 1977 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>A. P. Dempster</title>
+      <link>/author/a.-p.-dempster/</link>
+    </image>
+    
+    <item>
+      <title>Maximum likelihood with incomplete data via the EM algorithm</title>
+      <link>/publication/1977-01-01_dempster1977/</link>
+      <pubDate>Sat, 01 Jan 1977 00:00:00 +0000</pubDate>
+      <guid>/publication/1977-01-01_dempster1977/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

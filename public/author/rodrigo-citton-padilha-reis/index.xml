@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Citton Padilha Reis | José Luiz Padilha</title>
+    <link>/author/rodrigo-citton-padilha-reis/</link>
+      <atom:link href="/author/rodrigo-citton-padilha-reis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo Citton Padilha Reis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>Rodrigo Citton Padilha Reis</title>
+      <link>/author/rodrigo-citton-padilha-reis/</link>
+    </image>
+    
+    <item>
+      <title>Net atrioventricular compliance is an independent predictor of cardiovascular death in mitral stenosis</title>
+      <link>/publication/nunes2017/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nunes2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Different prognostic impact of the tissue Doppler-derived E/e′ ratio on mortality in Chagas cardiomyopathy patients with heart failure</title>
+      <link>/publication/nunes2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/nunes2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk estimation approach in Chagas disease is still needed</title>
+      <link>/publication/nunes2011/</link>
+      <pubDate>Mon, 03 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/nunes2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

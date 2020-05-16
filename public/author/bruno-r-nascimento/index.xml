@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno R Nascimento | José Luiz Padilha</title>
+    <link>/author/bruno-r-nascimento/</link>
+      <atom:link href="/author/bruno-r-nascimento/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bruno R Nascimento</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>Bruno R Nascimento</title>
+      <link>/author/bruno-r-nascimento/</link>
+    </image>
+    
+    <item>
+      <title>Simplified echocardiography screening criteria for diagnosing and predicting progression of latent rheumatic heart disease</title>
+      <link>/publication/nunes2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nunes2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors associated with compliance to AHA/ACC performance measures in a myocardial infarction system of care in Brazil</title>
+      <link>/publication/lana2017/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lana2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of pacemaker site on B-type natriuretic peptide levels and left ventricular function in a population with high prevalence of Chagas disease</title>
+      <link>/publication/desouza2015effect/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/desouza2015effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating and updating a mortality risk prediction score after percutaneous coronary intervention in Brazil</title>
+      <link>/publication/lodi2014tct/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lodi2014tct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Luiz Ribeiro | José Luiz Padilha</title>
+    <link>/author/antonio-luiz-ribeiro/</link>
+      <atom:link href="/author/antonio-luiz-ribeiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonio Luiz Ribeiro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>Antonio Luiz Ribeiro</title>
+      <link>/author/antonio-luiz-ribeiro/</link>
+    </image>
+    
+    <item>
+      <title>Circulating Progenitor Cell Levels for Prediction of Subclinical Atherosclerotic Disease</title>
+      <link>/publication/lopes2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lopes2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Different prognostic impact of the tissue Doppler-derived E/e′ ratio on mortality in Chagas cardiomyopathy patients with heart failure</title>
+      <link>/publication/nunes2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/nunes2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

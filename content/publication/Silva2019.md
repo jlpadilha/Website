@@ -1,0 +1,28 @@
++++
+title = "A general GEE framework for the analysis of longitudinal ordinal missing data and related issues"
+date = "2019-04-01"
+publication_types = ["2"]
+authors = ["Jose LP da Silva", "Enrico A Colosimo", "Fabio N Demarqui"]
+publication = "Statistical Modelling"
+doi = "https://doi.org/10.1177/1471082X17752753"
+abstract = "Generalized estimating equations (GEEs) are a well-known method for the analysis of categorical longitudinal data. This method presents computational simplicity and provides consistent parameter estimates that have a population-averaged interpretation. However, with missing data, the resulting parameter estimates are consistent only under the strong assumption of missing completely at random (MCAR). Some corrections can be done when the missing data mechanism is missing at random (MAR): inverse probability weighting GEE (WGEE) and multiple imputation GEE (MIGEE). A recent method combining ideas of these two approaches has a doubly robust property in the sense that one only needs to correctly specify the weight or the imputation model in order to obtain consistent estimates for the parameters. In this work, a proportional odds model is assumed and a doubly robust estimator is proposed for the analysis of ordinal longitudinal data with intermittently missing responses and covariates under the MAR mechanism. In addition, the association structure is modelled by means of either the correlation coefficient or local odds ratio. The performance of the proposed method is compared to both WGEE and MIGEE through a simulation study. The method is applied to a dataset related to rheumatic mitral stenosis."
+abstract_short = ""
+image_preview = ""
+selected = false
+projects = []
+tags = []
+url_pdf = "https://journals.sagepub.com/doi/abs/10.1177/1471082X17752753"
+url_preprint = ""
+url_code = "A incluir"
+url_dataset = "A incluir"
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = "https://journals.sagepub.com/doi/abs/10.1177/1471082X17752753"
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++

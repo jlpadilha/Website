@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thales MM Santos | José Luiz Padilha</title>
+    <link>/author/thales-mm-santos/</link>
+      <atom:link href="/author/thales-mm-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thales MM Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Tue, 13 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>Thales MM Santos</title>
+      <link>/author/thales-mm-santos/</link>
+    </image>
+    
+    <item>
+      <title>Normal limits of the electrocardiogram derived from a large database of Brazilian primary care patients</title>
+      <link>/publication/palhares2017/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/palhares2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

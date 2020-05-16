@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert A Levine | José Luiz Padilha</title>
+    <link>/author/robert-a-levine/</link>
+      <atom:link href="/author/robert-a-levine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert A Levine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>Robert A Levine</title>
+      <link>/author/robert-a-levine/</link>
+    </image>
+    
+    <item>
+      <title>Pulmonary Artery Systolic Pressure Response to Exercise in Patients with Rheumatic Mitral Stenosis: Determinants and Prognostic Value</title>
+      <link>/publication/castrofaria2020/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/castrofaria2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Net atrioventricular compliance is an independent predictor of cardiovascular death in mitral stenosis</title>
+      <link>/publication/nunes2017/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nunes2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jose Luiz P da Silva | José Luiz Padilha</title>
+    <link>/author/jose-luiz-p-da-silva/</link>
+      <atom:link href="/author/jose-luiz-p-da-silva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jose Luiz P da Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Thu, 27 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>Jose Luiz P da Silva</title>
+      <link>/author/jose-luiz-p-da-silva/</link>
+    </image>
+    
+    <item>
+      <title>Heart rate variability as predictor of mortality in sepsis: a prospective cohort study</title>
+      <link>/publication/castilho2017/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/castilho2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors associated with compliance to AHA/ACC performance measures in a myocardial infarction system of care in Brazil</title>
+      <link>/publication/lana2017/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lana2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comments on ‘Covariance estimators for generalized estimating equations (GEE) in longitudinal analysis with small samples’</title>
+      <link>/publication/dasilva2016comments/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/dasilva2016comments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of pacemaker site on B-type natriuretic peptide levels and left ventricular function in a population with high prevalence of Chagas disease</title>
+      <link>/publication/desouza2015effect/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/desouza2015effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating and updating a mortality risk prediction score after percutaneous coronary intervention in Brazil</title>
+      <link>/publication/lodi2014tct/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lodi2014tct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

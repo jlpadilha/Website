@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Judy Hung | José Luiz Padilha</title>
+    <link>/author/judy-hung/</link>
+      <atom:link href="/author/judy-hung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Judy Hung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>Judy Hung</title>
+      <link>/author/judy-hung/</link>
+    </image>
+    
+    <item>
+      <title>Pulmonary Artery Systolic Pressure Response to Exercise in Patients with Rheumatic Mitral Stenosis: Determinants and Prognostic Value</title>
+      <link>/publication/castrofaria2020/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/castrofaria2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Left atrial cross-sectional area is a novel measure of atrial shape associated with cardioembolic strokes</title>
+      <link>/publication/tan2020/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tan2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of left atrial compliance improvement on functional status after percutaneous mitral valvuloplasty</title>
+      <link>/publication/athayde2018/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/athayde2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Net atrioventricular compliance is an independent predictor of cardiovascular death in mitral stenosis</title>
+      <link>/publication/nunes2017/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nunes2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

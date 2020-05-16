@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Luiz P Ribeiro | José Luiz Padilha</title>
+    <link>/author/antonio-luiz-p-ribeiro/</link>
+      <atom:link href="/author/antonio-luiz-p-ribeiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonio Luiz P Ribeiro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` José Luiz Padilha da Siva</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu159da004f8d70309655054a37bcb59f5_17500_512x512_fill_lanczos_center_2.png</url>
+      <title>Antonio Luiz P Ribeiro</title>
+      <link>/author/antonio-luiz-p-ribeiro/</link>
+    </image>
+    
+    <item>
+      <title>Beneficial effects of benznidazole in Chagas disease: NIH SaMi-Trop cohort study</title>
+      <link>/publication/cardoso2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cardoso2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart rate variability as predictor of mortality in sepsis: a prospective cohort study</title>
+      <link>/publication/castilho2017/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/castilho2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors associated with compliance to AHA/ACC performance measures in a myocardial infarction system of care in Brazil</title>
+      <link>/publication/lana2017/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lana2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk estimation approach in Chagas disease is still needed</title>
+      <link>/publication/nunes2011/</link>
+      <pubDate>Mon, 03 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/nunes2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
